@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Kim Phung - kimphung@buro210.nl
+ * @date 03-07-2023
+ * @category BURO210
+ * @package Macademy_InventoryFulfillment
+ * @copyright Copyright © BURO210 (www.buro210.nl)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Macademy_InventoryFulfillment"/>
+</config>
