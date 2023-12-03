@@ -1,4 +1,3 @@
-```markdown
 # Magento 2 Validation Rules and Databindings
 
 ## Validation Rules
@@ -20,4 +19,3 @@ In addition to validation rules, Magento 2 includes databindings for Knockout.js
 Explore the databindings and leverage them to create dynamic and interactive user interfaces in your Magento 2 projects.
 
 Feel free to refer to the respective GitHub repositories for detailed documentation and examples.
-```
