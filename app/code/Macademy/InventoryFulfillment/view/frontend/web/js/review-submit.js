@@ -49,7 +49,7 @@ define([
                     .done(response => console.log(`Response`, response))
                     .fail(err => console.log(`Error`, err));
             } else {
-                console.log(`The Review Submit form hjas an error.`);
+                console.log(`The Review Submit form has an error.`);
             }
         },
         getUrl() {
